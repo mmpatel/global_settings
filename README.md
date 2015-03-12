@@ -1,0 +1,1 @@
+Global settings functionality to save default settings and apply those settings to everywhere.
